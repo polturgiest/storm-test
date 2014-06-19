@@ -18,3 +18,6 @@ This project contains a simple Storm topology that reads the contents of a local
 
 - We are not looking for a complete rewrite of the application for the code review. Focus on best practices and explain any potential defects in the code.
 - Please do not fork this repository or submit answers as a Pull Request.  Test Responses should be submitted via email to your recruiter.
+
+
+Good Luck
